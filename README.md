@@ -21,7 +21,7 @@ A shipment should already known in the system/database.
 - shipment id
 
 Typically a shipment has multiple containers. A container can only be part of one shipment.
-Containers should already be jniwn in the system/database.
+Containers should already be known in the system/database.
 
 ### Tracking
 - carrier name
